@@ -94,3 +94,11 @@ Preguntas sobre la metodología:
 - ¿Cómo te ayudó el poder haber conversado / entrevistado a tu partner antes de empezar a diseñar?
 - ¿Cómo testear y obtener feedback te ayudaron en tu diseño?
 - ¿Cuál fue la parte más difícil de este proceso? 
+
+## Referencias
+
+Para este ejercicio puedes usar el siguiente material como referencia:
+
+- [Formato - DP 0](https://drive.google.com/open?id=1x6pEiOTbZebzm-SKxKRQLruTIxy1Dggm)
+- [Desktop sketches](https://drive.google.com/open?id=0B0NdG2VNCDPzZ254YmVpbU1iUUE)
+- [Mobile sketches](https://drive.google.com/open?id=0B0NdG2VNCDPzdzk4RW1DQi1EZzQ)
